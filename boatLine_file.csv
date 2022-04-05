@@ -1,0 +1,8 @@
+,charge,interval,name,network,opening_hours,operator,operator:website,ref,route_master,type,Trips,id,version
+0,500 XOF,00:45,bateau-bus 900 : Yopougon (Abobo Doumé) ↔ Treichville,STL,"Mo-Su,PH 05:00-22:00",STL,https://fr-fr.facebook.com/STL.ABIDJAN/,900,ferry,route_master,"[10394939, 10391642]",10391644,7
+1,500 XOF,01:00,bateau-bus 901 : Treichville ↔ Koumassi,STL,"Mo-Su,PH 05:00-22:00",STL,,901,ferry,route_master,"[10391643, 10394940]",10394941,4
+2,150 XOF,00:05,bateau-bus 501 : Yopougon (Abobo Doumé) ↔ Treichville,monbato,"Mo-Su,PH 05:00-22:00",SOTRA,http://www.sotra.ci,501,ferry,route_master,"[10395064, 10395063]",10395065,5
+3,150 XOF,00:05,bateau bus 503 : Yopougon (Abobo Doumé) ↔ Plateau,monbato,"Mo-Su,PH 05:00-22:00",SOTRA,,503,ferry,route_master,"[10395134, 10395135]",10395136,4
+4,150 XOF,00:05,bateau-bus 502 : Treichville ↔ Blockauss,monbato,"Mo-Su,PH 05:00-22:00",SOTRA,,502,ferry,route_master,"[10395176, 10395177]",10395178,4
+5,300 XOF,00:30,bateau-bus : Yopougon (Abobo Doumé) ↔ Plateau,Aqualines,"Mo-Su,PH 05:30-20:30",Citrans,https://www.facebook.com/aqualinesbycitrans/,,ferry,route_master,"[10416468, 10416469]",10464893,4
+6,300 XOF,00:30,bateau-bus : Abatta ↔ Plateau,Aqualines,"Mo-Su,PH 05:00-22:00",Citrans,,,ferry,route_master,"[10465033, 10465034]",10465035,4
